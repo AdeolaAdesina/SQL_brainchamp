@@ -180,7 +180,7 @@ SELECT * FROM Products ORDER BY Price ASC;
 ```
 
 
-## 5 
+## 5 COUNT
 
 Use Case: Count the total number of orders made.
 
