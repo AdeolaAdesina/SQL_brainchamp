@@ -1,6 +1,6 @@
 # SQL_brainchamp
 
-## Download configuration files for PostgreSQL database setup(PDADMIN)
+## Download configuration files for PostgreSQL database setup(PG-ADMIN)
 
 Google search - postgresql download
 
